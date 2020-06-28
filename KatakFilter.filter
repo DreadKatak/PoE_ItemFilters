@@ -1,0 +1,27 @@
+Show 
+    SocketGroup = 6
+    Rarity Normal Magic Rare
+    SetFontSize 39
+    SetBorderColor 178 0 255
+Show
+    Sockets = 6
+    Rarity Normal Magic Rare
+    SetBackgroundColor 255 127 127
+Show 
+    SocketGroup = 5
+    Rarity Normal Magic Rare
+    SetFontSize 37
+    SetBorderColor 214 127 255
+Show 
+    SocketGroup >= 3RGB
+    Rarity Normal Magic Rare
+    SetFontSize 37
+    SetBorderColor 170 158 130
+Show
+    Sockets = 5
+    Rarity Normal Magic Rare
+    SetBackgroundColor 255 178 127
+Show
+    SocketGroup = 4
+    Rarity Normal Magic Rare
+    SetBackgroundColor 198 160 160
