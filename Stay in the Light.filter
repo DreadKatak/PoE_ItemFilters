@@ -34,6 +34,6 @@ Hide
     Corrupted True
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
 Hide
-    Sockets < 2
+    DropLevel <= 63
     Rarity Normal Magic
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
