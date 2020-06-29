@@ -25,3 +25,7 @@ Show
     SocketGroup = 4
     Rarity Normal Magic Rare
     SetBackgroundColor 198 160 160
+Hide
+    DropLevel <= 58
+    Rarity Normal Magic
+    Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
