@@ -26,12 +26,12 @@ Show
     SetFontSize 37
     SetBorderColor 170 158 130
 Show
-    DropLevel <= 63
+    DropLevel >= 63
     Sockets = 5
     Rarity Normal Magic Rare
     SetBackgroundColor 255 178 127
 Show
-    DropLevel <= 63
+    DropLevel >= 63
     SocketGroup = 4
     Rarity Normal Magic Rare
     SetBackgroundColor 198 160 160
