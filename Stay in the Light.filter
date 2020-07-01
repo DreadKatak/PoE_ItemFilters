@@ -15,13 +15,23 @@ Show
 Show 
     SocketGroup >= 3RGB
     Rarity Normal Magic Rare
+    Width = 1
+    SetFontSize 37
+    SetBorderColor 170 158 130
+Show 
+    SocketGroup >= 3RGB
+    Rarity Normal Magic Rare
+    Width = 2
+    Height = 2
     SetFontSize 37
     SetBorderColor 170 158 130
 Show
+    DropLevel <= 63
     Sockets = 5
     Rarity Normal Magic Rare
     SetBackgroundColor 255 178 127
 Show
+    DropLevel <= 63
     SocketGroup = 4
     Rarity Normal Magic Rare
     SetBackgroundColor 198 160 160
@@ -35,5 +45,16 @@ Hide
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
 Hide
     DropLevel <= 63
-    Rarity Normal Magic
+    Rarity Normal Magic Rare
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
+Hide
+    DropLevel < 60
+    Rarity Normal Magic
+    Class "Life Flasks"
+Hide
+    DropLevel < 60
+    Rarity Normal Magic
+    Class "Hybrid Flasks"
+Hide
+    Rarity Normal Magic
+    Class "Mana Flasks"
