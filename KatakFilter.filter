@@ -1,3 +1,6 @@
+Show
+    Identified True
+    HasExplicitMod "Veil"
 Show 
     SocketGroup = 6
     Rarity Normal Magic Rare
@@ -27,19 +30,27 @@ Show
     SocketGroup = 4
     Rarity Normal Magic Rare
     SetBackgroundColor 198 160 160
+Show
+    Class "Incubator"
+    SetTextColor 210 0 0
+    SetBorderColor 210 0 0
 Hide
     DropLevel <= 67
     Rarity Normal Magic Rare
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
+    SetFontSize 24
 Hide
     DropLevel < 60
     Rarity Normal Magic
     Class "Life Flasks"
+    SetFontSize 24
 Hide
     DropLevel < 60
     Rarity Normal Magic
     Class "Hybrid Flasks"
+    SetFontSize 24
 Hide
     DropLevel < 60
     Rarity Normal Magic
     Class "Mana Flasks"
+    SetFontSize 24
