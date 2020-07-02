@@ -77,6 +77,16 @@ Hide
 Hide
     Rarity Normal Magic
     Class "Body Armours"
+    BaseType "General's Brigandine"
+    SetFontSize 24
+Hide
+    Rarity Normal Magic
+    Class "Body Armours"
+    BaseType "Triumphant Lamellar"
+    SetFontSize 24
+Hide
+    Rarity Normal Magic
+    Class "Body Armours"
     BaseType "Elegant Ringmail"
     SetFontSize 24
 Hide
@@ -117,6 +127,11 @@ Hide
 Hide
     Rarity Normal Magic
     Class "Boots"
+    BaseType "Dragonscale Boots"
+    SetFontSize 24
+Hide
+    Rarity Normal Magic
+    Class "Boots"
     BaseType "Crusader Boots"
     SetFontSize 24
 Hide
@@ -149,6 +164,11 @@ Hide
 Hide
     Rarity Normal Magic
     Class "Gloves"
+    BaseType "Dragonscale Gauntlets"
+    SetFontSize 24
+Hide
+    Rarity Normal Magic
+    Class "Gloves"
     BaseType "Crusader Gloves"
     SetFontSize 24
 Hide
@@ -175,6 +195,11 @@ Hide
     Rarity Normal Magic
     Class "Helmets"
     BaseType "Hubris Circlet"
+    SetFontSize 24
+Hide
+    Rarity Normal Magic
+    Class "Helmets"
+    BaseType "Nightmare Bascinet"
     SetFontSize 24
 Hide
     Rarity Normal Magic
