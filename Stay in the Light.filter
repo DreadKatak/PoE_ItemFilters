@@ -48,6 +48,14 @@ Show
     SetFontSize 37
     SetBorderColor 210 0 0
 Show
+    Class "Helmets"
+    BaseType "Royal Burgonet"
+    Rarity Normal Magic Rare
+Show
+    Class "Two Hand Axes"
+    BaseType "Karui Chopper" "Vaal Axe"
+    Rarity Normal Magic Rare
+Show
     Quality > 0
     Rarity Normal Magic
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
@@ -76,183 +84,34 @@ Hide
     Class "Mana Flasks"
     SetFontSize 24
 Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Zodiac Leather"
-    SetFontSize 24
+    Class "Currency"
+    BaseType "Portal Scroll"
 Hide
     Rarity Normal Magic
     Class "Body Armours"
-    BaseType "Assassin's Garb"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Widowsilk Robe"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Vaal Regalia"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "General's Brigandine"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Triumphant Lamellar"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Elegant Ringmail"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Saint's Hauberk"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Saintly Chainmail"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Blood Raiment"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Sadist Garb"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Body Armours"
-    BaseType "Carnal Armour"
+    BaseType "Assassin's Garb" "Zodiac Leather" "Widowsilk Robe" "Vaal Regalia" "General's Brigandine" "Triumphant Lamellar" "Elegant Ringmail" "Saint's Hauberk" "Saintly Chainmail" "Blood Raiment" "Sadist Garb" "Carnal Armour"
     SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Boots"
-    BaseType "Slink Boots"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Boots"
-    BaseType "Sorcerer Boots"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Boots"
-    BaseType "Dragonscale Boots"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Boots"
-    BaseType "Crusader Boots"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Boots"
-    BaseType "Murder Boots"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Bows"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Claws"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Daggers"
+    BaseType "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Crusader Boots" "Murder Boots"
     SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Gloves"
-    BaseType "Slink Gloves"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Gloves"
-    BaseType "Sorcerer Gloves"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Gloves"
-    BaseType "Dragonscale Gauntlets"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Gloves"
-    BaseType "Crusader Gloves"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Gloves"
-    BaseType "Murder Mitts"
+    BaseType "Slink Gloves" "Sorcerer Gloves" "Dragonscale Gauntlets" "Crusader Gloves" "Murder Mitts"
     SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Helmets"
-    BaseType "Sinner Tricorne"
+    BaseType "Sinner Tricorne" "Lion Pelt" "Mind Cage" "Hubris Circlet" "Nightmare Bascinet" "Praetor Crown" "Deicide Mask"
     SetFontSize 24
 Hide
     Rarity Normal Magic
-    Class "Helmets"
-    BaseType "Lion Pelt"
+    Class "Two Hand"
+    BaseType "Exquisite Blade" "Void Axe" "Fleshripper" "Coronal Maul"
     SetFontSize 24
 Hide
     Rarity Normal Magic
-    Class "Helmets"
-    BaseType "Mind Cage"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Helmets"
-    BaseType "Hubris Circlet"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Helmets"
-    BaseType "Nightmare Bascinet"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Helmets"
-    BaseType "Praetor Crown"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Helmets"
-    BaseType "Deicide Mask"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "One Hand"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Quivers"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Sceptres"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Shields"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Staves"
-    SetFontSize 24
-Hide
-    Rarity Normal Magic
-    Class "Wands"
+    Class "Bows" "Claws" "Daggers" "One Hand" "Quivers" "Sceptres" "Shields" "Staves" "Wands"
     SetFontSize 24
