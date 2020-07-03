@@ -59,6 +59,10 @@ Show
     Quality > 0
     Rarity Normal Magic
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
+Show
+    Class "Currency"
+    BaseType "Scroll of Wisdom"
+    SetFontSize 30
 Hide
     Rarity Normal Magic
     Corrupted True
@@ -86,6 +90,7 @@ Hide
 Hide
     Class "Currency"
     BaseType "Portal Scroll"
+    SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Body Armours"

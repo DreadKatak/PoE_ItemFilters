@@ -47,6 +47,10 @@ Show
     Class "Two Hand Axes"
     BaseType "Karui Chopper" "Vaal Axe"
     Rarity Normal Magic Rare
+Show
+    Class "Currency"
+    BaseType "Scroll of Wisdom"
+    SetFontSize 30
 Hide
     DropLevel <= 67
     Rarity Normal Magic Rare
@@ -70,6 +74,7 @@ Hide
 Hide
     Class "Currency"
     BaseType "Portal Scroll"
+    SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Body Armours"
