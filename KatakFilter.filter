@@ -34,6 +34,19 @@ Show
     Class "Incubator"
     SetTextColor 210 0 0
     SetBorderColor 210 0 0
+Show
+    Class "Gloves"
+    BaseType "Spiked Gloves"
+    SetFontSize 37
+    SetBorderColor 210 0 0
+Show
+    Class "Helmets"
+    BaseType "Royal Burgonet" "Eternal Burgonet"
+    Rarity Normal Magic Rare
+Show
+    Class "Two Hand Axes"
+    BaseType "Karui Chopper" "Vaal Axe"
+    Rarity Normal Magic Rare
 Hide
     DropLevel <= 67
     Rarity Normal Magic Rare
