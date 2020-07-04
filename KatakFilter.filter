@@ -50,7 +50,7 @@ Show
 Show
     Class "Currency"
     BaseType "Scroll of Wisdom"
-    SetFontSize 30
+    SetFontSize 28
 Hide
     DropLevel <= 67
     Rarity Normal Magic Rare

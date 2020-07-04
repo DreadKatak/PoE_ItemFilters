@@ -62,11 +62,11 @@ Show
 Show
     Class "Currency"
     BaseType "Scroll of Wisdom"
-    SetFontSize 30
+    SetFontSize 28
 Hide
     Rarity Normal Magic
     Corrupted True
-    Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
+    Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves" "Rings" "Amulets" "Belts"
     SetFontSize 24
 Hide
     DropLevel <= 63
