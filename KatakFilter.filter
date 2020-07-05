@@ -55,21 +55,25 @@ Hide
     DropLevel <= 67
     Rarity Normal Magic Rare
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     DropLevel < 60
     Rarity Normal Magic
     Class "Life Flasks"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     DropLevel < 60
     Rarity Normal Magic
     Class "Hybrid Flasks"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     DropLevel < 60
     Rarity Normal Magic
     Class "Mana Flasks"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     Class "Currency"
@@ -79,28 +83,34 @@ Hide
     Rarity Normal Magic
     Class "Body Armours"
     BaseType "Assassin's Garb" "Zodiac Leather" "Widowsilk Robe" "Vaal Regalia" "General's Brigandine" "Triumphant Lamellar" "Elegant Ringmail" "Saint's Hauberk" "Saintly Chainmail" "Blood Raiment" "Sadist Garb" "Carnal Armour"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Boots"
     BaseType "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Crusader Boots" "Murder Boots"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Gloves"
     BaseType "Slink Gloves" "Sorcerer Gloves" "Dragonscale Gauntlets" "Crusader Gloves" "Murder Mitts"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Helmets"
     BaseType "Sinner Tricorne" "Lion Pelt" "Mind Cage" "Hubris Circlet" "Nightmare Bascinet" "Praetor Crown" "Deicide Mask"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Two Hand"
     BaseType "Exquisite Blade" "Void Axe" "Fleshripper" "Coronal Maul"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
 Hide
     Rarity Normal Magic
     Class "Bows" "Claws" "Daggers" "One Hand" "Quivers" "Sceptres" "Shields" "Staves" "Wands"
+    SetBackgroundColor 0 0 0 250
     SetFontSize 24
