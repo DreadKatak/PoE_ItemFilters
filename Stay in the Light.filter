@@ -43,6 +43,10 @@ Show
     SetTextColor 210 0 0
     SetBorderColor 210 0 0
 Show
+    BaseType "Cluster Jewel"
+    SetFontSize 37
+    SetBorderColor 210 0 0
+Show
     Class "Gloves"
     BaseType "Spiked Gloves"
     SetFontSize 37
@@ -61,7 +65,7 @@ Show
     Class "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Fishing Rods" "Gloves" "Helmets" "One Hand" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Two Hand" "Wands" "Warstaves"
 Show
     Class "Currency"
-    BaseType "Scroll of Wisdom"
+    BaseType "Armourer's Scrap" "Blacksmith's Whetstone" "Orb of Alteration" "Orb of Transmutation" "Orb of Augmentation" "Scroll of Wisdom"
     SetFontSize 28
 Hide
     Rarity Normal Magic
